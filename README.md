@@ -29,7 +29,7 @@ Experience of 3+ years in managing various services like Virtual macines, cloude
 
 Experience in managing EC2, S3, Auto Scaling, AMIs in AWS.
 
-Experience 2+ years in team management.
+Experience of 2+ years in team management.
 
 TECHNICAL SKILLS :
 
