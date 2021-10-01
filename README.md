@@ -19,13 +19,13 @@ Software Engineer with 9+ years of experience in Client/Server, Web Application 
 
 Extensive experience of n - tier web applications in ASP.NET (Webforms & MVC), ASP.NET Web API 2.0, C#, Microsoft Visual Studio .NET (2005/08/10/12/15/17), VB.NET, ADO.NET, JavaScript, AJAX, jQuery, ES6 by using .NET Framework 2.0/3.0/3.5/4.0/4.6.2/4.7.2.
 
-Experience in designing and developing Databases in SQL Server 2005/2008/2012/2014/2017/2019 which includes the development of Functions, Stored Procedures, Views, Joins and Triggers. Writing efficient SQL queries, Query optimization and performance tunning, Indexing, Database schema design.
+Experience in designing and developing Databases in SQL Server 2005/2008/2012/2014/2017/2019 which includes the development of Functions, Stored Procedures, Views, Joins and Triggers. Writing efficient SQL queries, Query optimization and performance tuning, Indexing, Database schema design.
 
 Experience in deploying, configuring and maintaining web sites and services on IIS 7.0.
 
 Experience in continuous integration and continuous deployment (CI/CD) with Azure DevOps.
 
-Experience of 3+ years in managing various services like Virtual macines, cloude storages etc in Microsoft Azure.
+Experience of 3+ years in managing various services like Virtual machines, cloud storages etc. in Microsoft Azure.
 
 Experience in managing EC2, S3, Auto Scaling, AMIs in AWS.
 
